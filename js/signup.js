@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const countryDropdown = document.getElementById("country");
 
     // Sample list of countries
-    const countries = ["United States", "Manila", "United Kingdom", 
+    const countries = ["Ilo-Ilo", "Manila", "United Kingdom", 
                        "Pasay", "Pasig", "Batangas", "Taguig", "Cavite",
                        "Laguna"];
 
